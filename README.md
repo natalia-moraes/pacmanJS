@@ -1,3 +1,3 @@
-# Reprodução do jogo Pacman desenvolvimento em JavaScript
+# Reprodução do jogo Pacman feito em JavaScript
 
 <img src="./pacmanJS.png"/>
